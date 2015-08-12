@@ -1,0 +1,9 @@
+University of California, Santa Cruz
+CMPS-12/B Data Structures
+Fall 2012
+Blase Maglaya
+
+The bcat utility reads each file in sequence and writes it
+to stdout.  If any filename is given as the single character
+"-", stdin is read at that point.  If no filenames are given
+then stdin is read as the only file.
