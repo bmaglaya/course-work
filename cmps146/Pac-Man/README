@@ -10,3 +10,6 @@ maximize points, and the goal for the ghosts was to minimize points. The
 options of Finite State Machine, Hierarchical Finite State Machine, and 
 Behavior Trees were given to build the AI. For both Pac-Man and the ghosts,
 we opted to use Behavior Trees.
+
+Our submissions is located in "src/pacman/entries" for both Pac-Man and
+the ghosts.
