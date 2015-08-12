@@ -1,0 +1,4 @@
+# Makefile.deps created Sun Nov 18 21:14:15 PST 2012
+debugf.o: debugf.c debugf.h
+edfile.o: edfile.c debugf.h list.h
+list.o: list.c debugf.h list.h
