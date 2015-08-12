@@ -1,0 +1,7 @@
+University of California, Santa Cruz
+CMPS-12B Data Structures
+Fall 2012
+Blase Maglaya
+
+Generic sorting function using void*. Input is taken
+through stdin and sorted to output.
