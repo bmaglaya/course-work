@@ -1,0 +1,12 @@
+University of California, Santa Cruz
+CMPS-146 Game AI
+Fall 2013
+Blase Maglaya
+Krishna Velury
+
+Pac-Man project for Game AI. Given the java source code for Pac-Man, create
+an AI for Pac-Man and an AI for the ghosts. The goal for Pac-Man was to 
+maximize points, and the goal for the ghosts was to minimize points. The 
+options of Finite State Machine, Hierarchical Finite State Machine, and 
+Behavior Trees were given to build the AI. For both Pac-Man and the ghosts,
+we opted to use Behavior Trees.
