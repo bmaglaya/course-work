@@ -1,0 +1,2 @@
+auxlib.o: auxlib.cpp auxlib.h
+asgone.o: asgone.cpp auxlib.h
